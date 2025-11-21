@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello 🤖
+🔭 Crrently working on ... getting up to speed...
 <!--
 **lauramarion/lauramarion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
